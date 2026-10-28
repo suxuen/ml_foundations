@@ -1,4 +1,4 @@
-# Halide Perovskite ML Evaluations
+# ML foundations development and Halide Perovskite ML Evaluations
 
 
 ### 1 - Cross Validation (CV)
